@@ -1,0 +1,26 @@
+{
+  "name": "kylinjs",
+  "version": "1.0.0",
+  "description": "kylinjs 基于 koa 的 nodejs服务端框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kylinjs",
+    "koa"
+  ],
+  "author": "rgy",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "delegates": "^1.0.0",
+    "koa": "^2.5.0",
+    "koa-bodyparser": "^4.2.0",
+    "koa-router": "^7.4.0",
+    "koa-static": "^4.0.2",
+    "lodash": "^4.17.5",
+    "nunjucks": "^3.1.2",
+    "querystring": "^0.2.0"
+  }
+}
